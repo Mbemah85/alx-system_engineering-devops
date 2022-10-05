@@ -1,1 +1,2 @@
-sh: 1: /bin/bashpwd: not found
+#!/bin/bash
+ls
